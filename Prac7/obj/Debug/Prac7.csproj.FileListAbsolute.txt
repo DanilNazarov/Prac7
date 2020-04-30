@@ -1,0 +1,10 @@
+C:\Users\DANIL\source\repos\Prac7\Prac7\bin\Debug\Prac7.exe.config
+C:\Users\DANIL\source\repos\Prac7\Prac7\bin\Debug\Prac7.exe
+C:\Users\DANIL\source\repos\Prac7\Prac7\bin\Debug\Prac7.pdb
+C:\Users\DANIL\source\repos\Prac7\Prac7\obj\Debug\Prac7.csprojAssemblyReference.cache
+C:\Users\DANIL\source\repos\Prac7\Prac7\obj\Debug\Prac7.NazarovPrac.resources
+C:\Users\DANIL\source\repos\Prac7\Prac7\obj\Debug\Prac7.Properties.Resources.resources
+C:\Users\DANIL\source\repos\Prac7\Prac7\obj\Debug\Prac7.csproj.GenerateResource.cache
+C:\Users\DANIL\source\repos\Prac7\Prac7\obj\Debug\Prac7.exe
+C:\Users\DANIL\source\repos\Prac7\Prac7\obj\Debug\Prac7.pdb
+C:\Users\DANIL\source\repos\Prac7\Prac7\obj\Debug\Prac7.csproj.CoreCompileInputs.cache
